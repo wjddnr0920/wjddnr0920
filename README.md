@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=wjddnr0920)
-
 <!-- solved.ac 프로필 -->
 ## 🖥️ Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jupark0920)](https://solved.ac/jupark0920)
