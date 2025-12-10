@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EDC3FA&text=JK's%20GitHub&height=250&fontSize=70&fontAlignY=40)
 
+## About Me
+<p>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <a href="mailto:pju144011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
 <!-- 기술 스택 -->
 ## 🛠️ Tech Stack
 <p>
