@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EDC3FA&text=JK's%20GitHub&height=250&fontSize=70&fontAlignY=40)
 
 ## About Me
+<a href="https://west-kettle-06a.notion.site/AI-GitHub-2c6739c71235801796f9daabf7a5c7e0?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white"/></a>
+
 <p>
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <a href="mailto:pju144011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/pju144011@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/jupark0920@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/></a>
 </p>
 
 <!-- 기술 스택 -->
