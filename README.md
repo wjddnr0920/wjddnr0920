@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EDC3FA&text=JU's%20GitHub&height=250&fontSize=70&fontAlignY=40)
 
 ## About Me
-<a href="https://west-kettle-06a.notion.site/AI-2c5739c7123580a28433d0cadd2c5e3b?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white"/></a>
+<a href="https://west-kettle-06a.notion.site/AI-2c5739c7123580a28433d0cadd2c5e3b?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
-<p>
-  <a href="mailto:pju144011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:jupark0920@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-</p>
+<a href="mailto:pju144011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<a href="mailto:jupark0920@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
 <!-- 기술 스택 -->
 ## 🛠️ Tech Stack
